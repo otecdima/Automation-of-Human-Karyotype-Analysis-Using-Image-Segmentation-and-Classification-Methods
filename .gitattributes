@@ -1,0 +1,9 @@
+Classification/models_weights/MobileNetV2_not_pretrained.pth filter=lfs diff=lfs merge=lfs -text
+Classification/models_weights/MobileNetV2_pretrained.pth filter=lfs diff=lfs merge=lfs -text
+Classification/models_weights/ResNet18_not_pretrained.pth filter=lfs diff=lfs merge=lfs -text
+Classification/models_weights/ResNet18_pretrained.pth filter=lfs diff=lfs merge=lfs -text
+Segmentation/models_weights/RetinaNet[[:space:]](pretrained).pth filter=lfs diff=lfs merge=lfs -text
+Segmentation/models_weights/YOLOv8 filter=lfs diff=lfs merge=lfs -text
+Segmentation/models_weights/Faster[[:space:]]R-CNN[[:space:]](not[[:space:]]pretrained).pth filter=lfs diff=lfs merge=lfs -text
+Segmentation/models_weights/Faster[[:space:]]R-CNN[[:space:]](pretrained).pth filter=lfs diff=lfs merge=lfs -text
+Segmentation/models_weights/RetinaNet[[:space:]](not[[:space:]]pretrained).pth filter=lfs diff=lfs merge=lfs -text
