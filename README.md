@@ -43,4 +43,4 @@ As can be seen from the images, the pipeline works well, being able to correctly
 
 ## Notes for running
 
-The `Pipeline` directory contains all necessary files that will enable to run pipeline (Google Colab recommended for testing).
+The `Pipeline` directory contains all the necessary files that will enable to run `Pipeline.ipynb` (Google Colab recommended for testing).
